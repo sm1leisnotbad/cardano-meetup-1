@@ -1,30 +1,40 @@
 # Cardano Meetup 1
 
-## Overview
-Welcome to the Cardano Meetup 1 repository! This repo contains all the necessary resources and instructions for our hands-on lab sessions focusing on various aspects of the Cardano blockchain.
+## Task 1: Create your first wallet
+- Name of wallet (Lace/Nami): Lace
+- Wallet address: addr1q8ggh5q9x0hd0sauy8069gjpw48h3zqey6whv3pkkmph96ft6gj3pxfe66wv7ksnlkgmtthj3hcs7lmg3ma0pawu396spzfc05
+- Screenshot of wallet creation: 
+<img width="1599" height="749" alt="image" src="https://github.com/user-attachments/assets/5b341038-de6a-4c12-8988-f39ed53d50e9" />
 
-## Lab Overview
-In this lab, participants will learn how to:
-1. Set up a Cardano node.
-2. Interact with the Cardano blockchain through a variety of tools and frameworks.
-3. Understand the basics of smart contract development on the Cardano platform.
-4. Participate in real-world transactions and learn about decentralized finance (DeFi) opportunities.
+## Task 2: Get testnet ADA (faucet)
+- Faucet used: ![Link](https://docs.cardano.org/cardano-testnets/tools/faucet)
+- Amount received: 10,000.00 ADA
+- Transaction ID (URL): https://preview.cardanoscan.io/transaction/661a7964b41046e82ce8fd6a21b7c05da93b5136b7a94754dad85fac3d209083
+- Screenshot of receipt:
+<img width="1188" height="539" alt="image" src="https://github.com/user-attachments/assets/d22d931b-67d8-47db-bd70-bbae1035b326" />
 
-## Instructions
-1. **Clone the Repository**:  Begin by cloning this repository to your local machine:
-   ```bash
-   git clone https://github.com/phamdat721101/cardano-meetup-1.git
-   cd cardano-meetup-1
-   ```
+## Task 3: Send your first transaction
+- From address:
+- To address: addr_test1qqv2x3zhe0m7d9avny0zezq54jlhl82m26ql5welac8y849wqa6gfltg6ru3qj032jej8ek76ltz6pgmrhhl5dv3f2yqcn9p52
+- Transaction ID (URL): https://preview.cexplorer.io/tx/8f6a36af92f713d6d3f192ebdbcd50b814cfde72e8c96e9e3e6ed321578a1ca6
+- Screenshot of transaction:
+<img width="1462" height="725" alt="image" src="https://github.com/user-attachments/assets/ec799fd6-421b-4ce6-99f2-3e05c64a2287" />
 
-2. **Set Up the Environment**: Ensure that your development environment is configured according to the specifications provided in this lab.
-   - Install Haskell and Cardano tools as specified in the [setup guide](link_to_setup_guide).
+## Task 4: Explore Blockfrost dashboard
+- Blockfrost dashboard URL: 
+- Screenshot of dashboard:
+- Brief summary of what you explored:
 
-3. **Follow the Labs**: Navigate through the different folders to find individual lab instructions. Each lab has a `README.md` file with specific instructions to follow.
+## Task 5: Download Development Tools
+- Tools downloaded (list):
+- Screenshot of installation:
 
-4. **Get Help**: If you encounter issues, feel free to reach out in our community chat or consult the FAQ section.
+---
+### Submission Requirements
+- Screenshots for each step (wallets, faucet, transaction, dashboard, tools)
+- Transaction URLs for faucet and your first send
+- Wallet addresses (as applicable)
+- Summary of steps performed
 
-## Conclusion
-This lab aims to equip participants with hands-on experience with Cardano. We hope you find the materials useful and engaging! 
-
-Happy Learning!
+---
+**Feel free to fork this repository and submit your proof by opening an issue and uploading required screenshots, transaction URLs, and addresses as outlined above.**
